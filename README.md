@@ -28,7 +28,7 @@ pip install pandas numpy gradio langchain-community langchain-chroma langchain-o
 
 ## How to Run
 1. **Edit the `.env` file**: Add your own OpenAI API key and Hugging Face API token.
-2. **Run the application**:
+2. **Run the python script**:
 
 ```sh
 python gradio-dashboard.py
