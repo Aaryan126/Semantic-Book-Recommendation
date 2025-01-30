@@ -11,16 +11,19 @@ The Semantic Book Recommendation System is an AI-powered project that suggests b
 - **Category Selection**: Users can filter books by genre or keep the selection broad.
 - **Gradio-Powered UI**: An interactive interface for ease of use.
 
-#### Note: **Customizable API Keys**: Users can integrate their own OpenAI and Hugging Face API tokens for personalized usage.
-
 ## Requirements
 Ensure you have the following installed before running the application:
 - Python 3.8+
 - Required Python libraries (install using the command below)
+- Numpy
+- Pandas
+- Dotenv
+- Langchain
+- Gradio
 
 
 ```sh
-pip install pandas numpy gradio langchain openai python-dotenv
+pip install pandas numpy gradio langchain-community langchain-chroma langchain-openai openai python-dotenv
 ```
 
 ## How to Run
