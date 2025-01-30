@@ -1,7 +1,5 @@
 # Semantic-Book-Recommendation
 
-# Semantic Book Recommendation System
-
 ## Overview
 The Semantic Book Recommendation System is an AI-powered project that suggests books based on user input. By leveraging OpenAI embeddings and Chroma vector storage, the system provides recommendations that align with the semantic meaning of the user's query. Users can further refine recommendations by selecting a book category and an emotional tone.
 
